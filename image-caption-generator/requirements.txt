@@ -1,0 +1,4 @@
+tensorflow>=2.15
+pandas>=2.0
+pillow>=10.0
+numpy>=1.24
